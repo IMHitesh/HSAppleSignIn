@@ -37,3 +37,11 @@ Call loginWithApple function:
             
             
 If everything is proper then you will received the all user info.                      
+
+
+
+Advantage:
+
+No need to write single for signIn with apple.
+
+Automatically maintain all info in keychain.
