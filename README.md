@@ -1,5 +1,4 @@
-# HSAppleSignIn
-SignIn with Apple and Signup with demo : Swift
+SignIn with Apple demo : Swift
 
 
 Add AppleSignIn folder into your project.
